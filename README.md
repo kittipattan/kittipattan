@@ -1,14 +1,10 @@
-Hi 👋 My name is Kittipat
-=======================================
+# whoami
 
-Student
--------
+### Hi, I'm Kittipat 👋
 
-I am an undergraduate student at Sirindhorn International Institute of Technology (SIIT)
+🎓 Final-year undergraduate Computer Engineering student with a growing passion for cybersecurity and a goal of becoming a professional penetration tester
 
-- 🌍  I'm based in Thailand
-- 🧠  I'm interested in Cyber security and Ethical hacking
-- 📖  I'm learning Digital Forensics
+📚 Still early in this journey — learning, improving, and exploring new techniques
 
 ### Languages and Tools
 
