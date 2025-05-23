@@ -1,10 +1,8 @@
 # whoami
 
-### Hi, I'm Kittipat 👋
+### Kittipat
 
-🎓 Final-year undergraduate Computer Engineering student with a growing passion for cybersecurity and a goal of becoming a professional penetration tester
-
-📚 Still early in this journey — learning, improving, and exploring new techniques
+🎓 Senior Computer Engineering student
 
 ### Languages and Tools
 
